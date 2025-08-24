@@ -7,7 +7,7 @@ Survey Series and Survey Projects within them. You can also edit them, with resp
 Clone the repo
 ```
 git clone https://github.com/luisperezlemus/survey-project-dash
-cd survey-project-dashboard
+cd survey-project-dash
 npm install
 npm run dev
 ```
