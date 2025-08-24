@@ -5,16 +5,20 @@ Survey Series and Survey Projects within them. You can also edit them, with resp
 
 ## Setup
 Clone the repo
-```bash
-git clone [https://github.com/luisperezlemus/survey-project-dashboard](https://github.com/luisperezlemus/survey-project-dash)
-
+```
+git clone git clone https://github.com/luisperezlemus/survey-project-dash
+```
+```
 cd survey-project-dashboard
-
+```
+```
 npm install
-
+```
+```
 npm run dev
 ```
 Open in your browser: http://localhost:3000
+
 ## Assumptions/trade-offs
 - Working with static data. Survey data is loaded from a JSON file in /data. As a result, this simplified the setup but nothing is being written to the file so any time the page refreshes, the progress is gone. Ideally I would have done more to make this work if I had more time. For future plans, I would connect a database and use API endpoints for GET/POST requests to manipulate the data.
 - Focused on UI first. I was focused on building out the UI with Tailwind and making resusable components like Dropdown.tsx, Kebab.tsx, NavButton.tsx, and Modal.tsx, with Modal being the most customizable. As a trade-off, I did not get to implement the global loading spinner and did not work with async functions.
