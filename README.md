@@ -1,6 +1,6 @@
 # Survey Projects Dashboard
 A Next.js + TypeScript + Tailwind application for managing Survey Series and Survey Projects in the Survey Projects page. 
-This includes a navbar, header, sidebar with search, and a projects table, where you can interact the page by creating
+This includes a navbar, header, sidebar with search, and a projects table, where you can interact with the page by creating
 Survey Series and Survey Projects within them. You can also edit them, with respect to their status limitation.
 
 ## Setup
@@ -19,7 +19,7 @@ Open in your browser: http://localhost:3000
 - Tailwind. Allows for building components from scratch, including SVG icons. The trade-off was with time; if I included some component libraries maybe I could finished the UI more swiftly.
 ## Type Safety
 I ensured type safety for my props in most of my components in the UI folder and some in the layout folder. This ensured for no misuse of any of the models, including the data
-models used for the Survey Series and Survey groups. 
+models used for the Survey Series and Survey Project groups. 
 
 I added the most props to Modal.tsx because I created it to be used when creating a survey series and survey project. But I also use that same modal to edit and delete the survey series. I use that same modal to edit the survey projects too, while also passing in logic to follow the status restrictions described in the project description.
 
