@@ -6,7 +6,7 @@ Survey Series and Survey Projects within them. You can also edit them, with resp
 ## Setup
 Clone the repo
 ```bash
-git clone https://github.com/luisperezlemus/survey-project-dashboard
+git clone [https://github.com/luisperezlemus/survey-project-dashboard](https://github.com/luisperezlemus/survey-project-dash)
 
 cd survey-project-dashboard
 
