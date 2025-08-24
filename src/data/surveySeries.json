@@ -1,0 +1,101 @@
+[
+  {
+    "id": "series-1",
+    "name": "Fall 2024 Series",
+    "projects": [
+      {
+        "id": "proj-1",
+        "termTitle": "Fall 2024 - Term A",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2024-08-01T10:00:00Z",
+        "status": "Draft"
+      },
+      {
+        "id": "proj-2",
+        "termTitle": "Fall 2024 - Term B",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2024-08-05T12:00:00Z",
+        "status": "Published"
+      },
+      {
+        "id": "proj-3",
+        "termTitle": "Fall 2024 - Term C",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2024-08-10T14:00:00Z",
+        "status": "Live"
+      }
+    ]
+  },
+  {
+    "id": "series-2",
+    "name": "Spring 2025 Series",
+    "projects": [
+      {
+        "id": "proj-4",
+        "termTitle": "Spring 2025 - Term A",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2025-01-02T09:00:00Z",
+        "status": "Draft"
+      },
+      {
+        "id": "proj-5",
+        "termTitle": "Spring 2025 - Term B",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2025-01-07T11:00:00Z",
+        "status": "Live"
+      },
+      {
+        "id": "proj-6",
+        "termTitle": "Spring 2025 - Term C",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2025-01-12T16:00:00Z",
+        "status": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "series-3",
+    "name": "Summer 2025 Series",
+    "projects": [
+      {
+        "id": "proj-7",
+        "termTitle": "Summer 2025 - Term A",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2025-05-01T08:00:00Z",
+        "status": "Published"
+      },
+      {
+        "id": "proj-8",
+        "termTitle": "Summer 2025 - Term B",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2025-05-04T13:00:00Z",
+        "status": "Draft"
+      },
+      {
+        "id": "proj-9",
+        "termTitle": "Summer 2025 - Term C",
+        "courseSections": 0,
+        "enrollments": 0,
+        "surveyTemplate": "Default Survey Template",
+        "createdAt": "2025-05-08T15:30:00Z",
+        "status": "Live"
+      }
+    ]
+  }
+]
